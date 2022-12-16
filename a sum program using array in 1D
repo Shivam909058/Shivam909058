@@ -1,0 +1,37 @@
+#include<stdio.h>
+int
+main ()
+{
+  int i, sum = 0, size;
+  printf (" ENTER THE SIZE OF ARRAY : \n ");
+  scanf ("%d", &size);
+
+  int arr[size];
+
+
+      printf (" THE SIZE OF ARRAY IS : %d \n", size);
+    
+
+for(i=0;i<size;i++)
+{
+  printf ("ENTER THE VALUE OF ELEMENTS : \n  ");
+  scanf ("%d", &arr[i]);
+}
+ 
+
+printf("\n");
+
+  for (i = 0; i < size; i++)
+    {
+
+
+      sum = sum + arr[i];
+     
+    }
+     printf ("  THE RESULT  FOR SUM IN ARRAY :  %d \n", sum);
+
+
+
+
+  return 0;
+}
