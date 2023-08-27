@@ -15,7 +15,7 @@ Allow me to introduce myself. I'm a passionate problem solver who recently embar
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatps&show_icons=true&locale=en" alt="shashwatps" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s&Shivam909058" alt="Shivam909058" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam909058&" alt="Shivam909058" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam909058&show_icons=true&locale=en&layout=compact" alt="Shivam909058" /></p>
 
