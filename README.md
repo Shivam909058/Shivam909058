@@ -8,7 +8,7 @@ Allow me to introduce myself. I'm a passionate problem solver who recently embar
 
 <br><br><br><br>
 ## Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,js,nodejs,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,js,nodejs,django,unity,c#)](https://skillicons.dev)
 
 ## Connect with me :
 
