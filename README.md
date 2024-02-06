@@ -4,7 +4,7 @@
 <div align="left" width="300" padding="100">
 Allow me to introduce myself. I'm a passionate problem solver who recently embarked on a journey into the world of development, and I must say, I'm absolutely loving it! </div>
 <br>
-- 📖 I’m currently learning <b>BACKEND DEVELOPMENT</b>
+- 📖 I’m currently learning <b>BACKEND DEVELOPMENT , MACHINE LEARNING , GAME DEVELOPMENT </b>
 
 <br><br><br><br>
 ## Languages and Tools :
