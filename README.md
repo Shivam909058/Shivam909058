@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 ### **AI Innovator | Cloud Architect | ML Engineer | Game Developer**  
 
-Hi, I’m **Shivam**—a **passionate AI engineer and cloud computing enthusiast** currently in my **3rd year of Computer Science at Jaypee University of Engineering and Technology.** I specialize in **AI, deep learning, high-performance computing, and cloud infrastructure,** constantly exploring ways to build **cutting-edge AI-driven solutions.**  
+Hi, I’m **Shivam**—a **passionate AI engineer and cloud computing enthusiast** currently in my **3rd year of Computer Science and engineering** I specialize in **AI, deep learning, high-performance computing, and cloud infrastructure,** constantly exploring ways to build **cutting-edge AI-driven solutions.**  
 
 🔬 **I thrive on solving complex problems**, leveraging **ML models, cloud-native architectures, and GPU acceleration** to create **scalable and high-performance applications.**  
 
