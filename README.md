@@ -48,7 +48,7 @@ Hi, I’m **Shivam**—a **passionate AI engineer and cloud computing enthusiast
 ## 📊 **GitHub Stats & Contributions**  
 📈 **Code is life. Data is fuel.** 🚀  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam909058&theme=tokyonight" alt="GitHub Streak" />
+  <img src="(https://github-readme-streak-stats.herokuapp.com?user=Shivam909058&theme=highcontrast)(https://git.io/streak-stats)" alt="GitHub Streak" />
 </p>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam909058&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -59,7 +59,7 @@ Hi, I’m **Shivam**—a **passionate AI engineer and cloud computing enthusiast
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam909058)](https://git.io/streak-stats)
+
 
 ## 📡 **Let's Connect!**  
 📧 **Email:** shivamatvit@gmail.com  
