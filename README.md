@@ -59,7 +59,7 @@ Hi, I’m **Shivam**—a **passionate AI engineer and cloud computing enthusiast
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam909058&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam909058)](https://git.io/streak-stats)
 
 ## 📡 **Let's Connect!**  
 📧 **Email:** shivamatvit@gmail.com  
